@@ -1,7 +1,7 @@
 {
   "name": "@blmsoft/blmpay",
-  "version": "0.2.0",
-  "description": "Official Node.js SDK for BLMPay REST API with domain-bound API key support",
+  "version": "0.3.0",
+  "description": "Official Node.js SDK for BLMPay API v2 with HMAC-SHA256 signing and domain restriction support",
   "type": "module",
   "main": "./src/index.js",
   "exports": "./src/index.js",
